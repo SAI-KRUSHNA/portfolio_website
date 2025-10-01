@@ -32,7 +32,7 @@ export function Projects() {
       image: "PgHostel.png",
       technologies: ["Spring Boot", "MySQL", "Java", "Rest API", "Postman"],
       liveUrl: "#",
-      githubUrl: "/https://github.com/SAI-KRUSHNA/PG_Management_System"
+      githubUrl: "https://github.com/SAI-KRUSHNA/PG_Management_System"
     },
     {
       title: "Portfolio Website",
