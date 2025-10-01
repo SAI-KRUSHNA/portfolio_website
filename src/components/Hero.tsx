@@ -100,7 +100,7 @@ export function Hero() {
                 }}
               >
                 <ImageWithFallback
-                  src="images/ProfileImage.jpg"
+                  src="ProfileImage.jpg"
                   alt="Sai Krushna - Full Stack Developer"
                   className="w-full h-full object-cover rounded-2xl border-4 border-white shadow-2xl"
                 />
