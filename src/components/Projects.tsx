@@ -40,7 +40,7 @@ export function Projects() {
       image: "/Portfolio.png",
       technologies: ["React.js", "TypeScript", "VS Code", "AI"],
       liveUrl: "#Hero",
-      githubUrl: "#"
+      githubUrl: "https://github.com/SAI-KRUSHNA/portfolio_website"
     }
   ];
 
