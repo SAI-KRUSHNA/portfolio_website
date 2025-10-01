@@ -13,7 +13,7 @@ export function Projects() {
      {
       title: "Wishlist Application",
       description: "Wishlist Application helps users create and manage wishlists for various occasions. Users can add items, delete items, manage their wishlists.",
-      image: "wishlistapp.png",
+      image: "/wishlistapp.png",
       technologies: ["React", "JavaScript", "Vercel"],
       liveUrl: "https://wishlist-application.vercel.app/",
       githubUrl: "https://github.com/SAI-KRUSHNA/Wishlist-Application"
@@ -21,7 +21,7 @@ export function Projects() {
     {
       title: "OwnCart E-Commerce Application",
       description: "OwnCart is a full-featured e-commerce web application that allows users to browse products, add them to the cart, and make purchases. It includes user authentication, product search, and order management features.",
-      image: "OwnCart.png",
+      image: "/OwnCart.png",
       technologies: ["Java", "React", "Spring Boot", "MySQL", "Rest API", "Postman"],
       liveUrl: "#",
       githubUrl: "https://github.com/SAI-KRUSHNA/OwnCart_E-commerce"
@@ -32,12 +32,12 @@ export function Projects() {
       image: "PgHostel.png",
       technologies: ["Spring Boot", "MySQL", "Java", "Rest API", "Postman"],
       liveUrl: "#",
-      githubUrl: "https://github.com/SAI-KRUSHNA/PG_Management_System"
+      githubUrl: "/https://github.com/SAI-KRUSHNA/PG_Management_System"
     },
     {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing my projects and skills. Built with modern web technologies and optimized for performance and accessibility.",
-      image: "Portfolio.png",
+      image: "/Portfolio.png",
       technologies: ["React.js", "TypeScript", "VS Code", "AI"],
       liveUrl: "#Hero",
       githubUrl: "#"
