@@ -24,7 +24,7 @@ export function Projects() {
       image: "/OwnCart.png",
       technologies: ["Java", "React", "Spring Boot", "MySQL", "Rest API", "Postman"],
       liveUrl: "#",
-      githubUrl: "https://github.com/SAI-KRUSHNA/OwnCart_E-Commerce"
+      githubUrl: "https://github.com/SAI-KRUSHNA/OwnCart_E-commerce"
     },
     {
       title: "PG-Hostel Management System",
